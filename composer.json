@@ -21,8 +21,6 @@
     "twig/twig": "^1.0||^2.0"
   },
   "extra": {
-    "branch-alias": {
-      "dev-bundle": "dev"
-    }
+    "branch-alias": null
   }
 }
