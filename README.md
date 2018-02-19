@@ -1,6 +1,6 @@
 # Translate Country Codes to names 
 
-This bundles translate given country codes to name
+This bundles translate given country codes to names
 ```html+jinja
 {{ "TN" |country }} #default locale
 <-- OR -->
@@ -9,7 +9,7 @@ This bundles translate given country codes to name
 
 ## INSTALLATION via Composer
 
-    composer require haitham/country-locale
+    composer require haitham/country-code-translation
 
 ## CONFIGURATION
 Register the bundle:

@@ -1,6 +1,7 @@
 {
-    "name": "haitham/.checkout",
-    "license": "proprietary",
+    "name": "haitham/country-code-translation",
+    "license": "MIT",
+    "description": "This bundles translate given country codes to names",
     "type": "symfony-bundle",
     "autoload": {
         "psr-4": {
