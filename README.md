@@ -15,13 +15,13 @@ This bundles translate given country codes to name
 Register the bundle:
 
 ```php
-<?php
+
 // app/AppKernel.php
 public function registerBundles()
 {
     $bundles = array(
         // ...
-        new Haitham\CountryLocaleExtensionBundle\HaithamCountryLocaleExtensionBundle(),
+        new haitham\countriesBundle\haithamcountriesBundle(),
     );
     // ...
 }
