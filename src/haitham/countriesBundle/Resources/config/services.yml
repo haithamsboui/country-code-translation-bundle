@@ -1,0 +1,7 @@
+services:
+    country_extension:
+            class: haitham\countriesBundle\TwigExtension\CountryExtension
+            arguments:
+                        - '@request_stack'
+            tags:
+                - { name: twig.extension }
